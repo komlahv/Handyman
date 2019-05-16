@@ -1,0 +1,31 @@
+body{
+	background-color: #f3f3f3;
+	font-family: arial;
+}
+	.handymen_container {
+		width: 900;
+		background-color: #fff;
+		padding: 30px;
+	}
+ .handybox{
+ 	padding-bottom:30px;
+ 	width: 100%;
+}
+button{
+	width:100px;
+	height: 44px;
+	font-size: 22px;
+
+}
+select{
+
+	width:100px;
+	height: 44px;
+	font-size: 22px;
+   
+}
+input{ 
+	width:200px;
+	height: 44px;
+	
+    }
